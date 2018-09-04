@@ -168,5 +168,3 @@ public function findAuthUser(Query $query, $options)
 ### Future plans
 - Create a component to check whether a user's role passes a certain super-role
 - Create a helper as above
-
-Inspired by dereuromark's [TinyAuth](https://github.com/dereuromark/cakephp-tinyauth).
